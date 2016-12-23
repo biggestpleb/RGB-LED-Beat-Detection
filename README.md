@@ -2,6 +2,8 @@
 
 For those of you who asked to see the code, here it is.
 
+Feel free to message or email me if you have any questions.
+
 Disclaimer: this was the first Java/Processing program I ever wrote, 
 having only knowledge in basic C, and zero prior experience with any object oriented language. 
 The GUI code is a giant, barely readable block of variables and redundant code sections.
@@ -24,5 +26,4 @@ settings.txt stores the settings for the program.
 The Arduino folder contains the arduino sketch that that is receiving the HSI brightness values.
 It converts the values to RGB and uses 3 pwm pins as output. 
 
-Feel free to message or email me if you have any questions.
 
